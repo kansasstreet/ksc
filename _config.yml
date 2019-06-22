@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Kansas Street Company'
 
 collections:
   services:
@@ -11,7 +11,7 @@ collections:
     output: true
     permalink: /team/:path/
   testimonials:
-    output: true
+    output: false
     permalink: /testimonials/:path/
 
 defaults:
